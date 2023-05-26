@@ -3,7 +3,7 @@ import { Navbar, Button, Link, Text } from "@nextui-org/react";
 
 const Navigation = () => {
     return (
-        <Navbar isBordered variant={"sticky"} maxWidth={"fluid"} css={{
+        <Navbar isBordered maxWidth={"fluid"} css={{
             $$navbarBackgroundColor: "#FFBE29",
             $$navbarBlurBackgroundColor: "#FFBE29"
           }}>
