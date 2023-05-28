@@ -15,7 +15,8 @@ module.exports = {
       colors: {
         offwhite: '#f5f5f5',
         slyellow: '#FFBE29',
-        slred: '#8D153A'
+        slred: '#8D153A',
+        slgreen: '#00534E'
       }
     },
   },
