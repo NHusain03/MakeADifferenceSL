@@ -16,7 +16,7 @@ export const Hero = () => {
                     <Card.Body css={{ py: "$10" }}>
                         <Text color="white">
                             Some quick example text to build on the card title and make up the
-                            bulk of the card's content.
+                            bulk of the card&apos;s content.
                         </Text>
                     </Card.Body>
                     <Card.Footer>
