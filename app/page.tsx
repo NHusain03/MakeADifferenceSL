@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import Hero from './components/hero';
 import Hero2 from './components/hero2'
 import RestOfHome from './components/home'
 import RestOfHome2 from './components/restOfHome2'
