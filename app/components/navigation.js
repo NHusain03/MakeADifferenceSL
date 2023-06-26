@@ -16,7 +16,7 @@ const Navigation = () => {
                 <Navbar.Link href="/">Home</Navbar.Link>
                 <Navbar.Link href="/projects">Projects</Navbar.Link>
                 <Navbar.Link href="#">Gallery</Navbar.Link>
-                <Navbar.Link href="#">Contact Us</Navbar.Link>
+                <Navbar.Link href="/contact">Contact Us</Navbar.Link>
             </Navbar.Content>
             <Navbar.Content>
                 <Navbar.Item>

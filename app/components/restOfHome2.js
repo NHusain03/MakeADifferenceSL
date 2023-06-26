@@ -3,7 +3,7 @@ import React from 'react'
 function RestOfHome2() {
     return (
         <div className='p-10 bg-slgreen'>
-            <h1 className='text-xl text-white pb-5 font-bold underline underline-offset-8 text-center'>OUR PROJECTS</h1>
+            <h1 className='text-xl text-white pb-5 font-bold underline underline-offset-8 text-center'>PROJECTS</h1>
             <div className='flex flex-col items-center justify-center space-y-10 sm:flex-row sm:space-x-10 sm:space-y-0'>
                 <div className='bg-white rounded-lg drop-shadow-lg sm:w-1/2 lg:w-1/4 '>
                     <img className='object-fill rounded-t-lg' src='./1.jpg'></img>
