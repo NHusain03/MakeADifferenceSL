@@ -8,7 +8,7 @@ export default function Contact() {
 
                 <div className='absolute top-0 left-0 w-full h-full flex flex-col justify-evenly items-center drop-shadow-lg md:flex-row'>
 
-                    <div className="flex flex-col items-center p-5 bg-slgreen rounded-lg w-2/3 md:w-1/3">
+                    <div className="flex flex-col items-center p-5 bg-slgreen rounded-lg w-4/5 sm:w-2/3 md:w-1/3">
                         <h5 className="py-3 text-xl font-bold tracking-tight text-white text-center sm:text-2xl">Email</h5>
 
                         <a href="mailto:makeadifferencesrilanka1@gmail.com" className='bg-offwhite text-slgreen rounded-lg w-12 hover:scale-110 border-2 border-transparent hover:bg-slgreen hover:text-offwhite hover:border-offwhite hover:cursor-pointer transition duration-100 ease-in-out-quad'>
@@ -22,7 +22,7 @@ export default function Contact() {
                         <h5 className="py-3 text-base tracking-tight text-white text-center lg:text-lg">makeadifferencesrilanka1@gmail.com</h5>
                     </div>
 
-                    <div className="flex flex-col items-center p-5 bg-slgreen rounded-lg w-2/3 md:w-1/3">
+                    <div className="flex flex-col items-center p-5 bg-slgreen rounded-lg w-4/5 sm:w-2/3 md:w-1/3">
                         <h5 className="py-3 text-xl font-bold tracking-tight text-white text-center sm:text-2xl">Phone</h5>
 
                         <a href="tel:+447958422291" className='bg-offwhite text-slgreen rounded-lg w-12 hover:scale-110 border-2 border-transparent hover:bg-slgreen hover:text-offwhite hover:border-offwhite transition duration-100 ease-in-out-quad'>
