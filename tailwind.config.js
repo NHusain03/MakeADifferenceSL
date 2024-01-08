@@ -16,7 +16,13 @@ module.exports = {
         offwhite: '#e5e7eb',
         slyellow: '#FFBE29',
         slred: '#8D153A',
-        slgreen: '#00534E'
+        slgreen: '#00534E',
+        ashgray: '#A1B0AB',
+        battlegray: '#929487',
+        teagreen: '#C3DAC3',
+        nyanza: '#D5ECD4',
+        celadon: '#B6D7B9',
+        cambridge: '#9ABD97'
       }
     },
   },

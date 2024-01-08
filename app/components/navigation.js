@@ -18,8 +18,8 @@ const Navigation = () => {
 
     return (
         <Navbar isBordered variant="sticky" css={{
-            $$navbarBackgroundColor: "#FFBE29",
-            $$navbarBlurBackgroundColor: "#FFBE29",
+            $$navbarBackgroundColor: "#D5ECD4",
+            $$navbarBlurBackgroundColor: "#D5ECD4",
             color: "#00534E"
         }}>
             <Navbar.Toggle showIn="xs" />
@@ -47,7 +47,7 @@ const Navigation = () => {
             </Navbar.Content>
             <Navbar.Content>
                 <Navbar.Item>
-                    <a className="bg-slred text-xs text-white p-3 rounded-lg sm:ml-10 sm:text-md">DONATE</a>
+                    <a className="bg-slgreen text-xs text-white p-3 rounded-lg sm:ml-10 sm:text-md">DONATE</a>
                 </Navbar.Item>
             </Navbar.Content>
             <Navbar.Collapse disableAnimation>
