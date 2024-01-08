@@ -47,7 +47,7 @@ const Navigation = () => {
             </Navbar.Content>
             <Navbar.Content>
                 <Navbar.Item>
-                    <a className="bg-slgreen text-xs text-white p-3 rounded-lg sm:ml-10 sm:text-md">DONATE</a>
+                    <a href="https://www.gofundme.com/f/Vilippu-Koottu-Pannai-awakening-integrated-farm" className="bg-slgreen text-xs text-nyanza p-3 rounded-lg sm:ml-10 sm:text-md">DONATE</a>
                 </Navbar.Item>
             </Navbar.Content>
             <Navbar.Collapse disableAnimation>
