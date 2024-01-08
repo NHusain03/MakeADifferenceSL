@@ -5,11 +5,11 @@ export default function Projects() {
         <>
             <img src="/background.jpg" className="fixed w-full h-full object-cover -z-50" />
             <div className="flex justify-center">
-                <div className="bg-offwhite rounded-lg pb-5 px-5 my-16 w-4/5 sm:px-10 sm:pb-10">
+                <div className="bg-celadon rounded-lg pb-5 px-5 my-16 w-4/5 sm:px-10 sm:pb-10">
                     <h1 className='text-xl py-5 font-bold underline underline-offset-8 text-center sm:py-7'>PROJECTS</h1>
                     <div className='flex flex-col justify-center items-center space-y-10'>
 
-                        <div className="flex flex-col bg-gray-100 rounded-lg drop-shadow-lg lg:flex-row">
+                        <div className="flex flex-col bg-nyanza rounded-lg drop-shadow-lg lg:flex-row">
                             <img className="rounded-t-lg lg:w-3/5 lg:rounded-tr-none lg:rounded-bl-lg" src="/carousel/2.jpg" alt="" />
                             <div className="p-5">
                                 <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">Vilippu Koottu Pannai (VKP)</h5>
@@ -22,7 +22,7 @@ export default function Projects() {
                             </div>
                         </div>
 
-                        <div className="flex flex-col-reverse bg-gray-100 rounded-lg drop-shadow-lg lg:flex-row">
+                        <div className="flex flex-col-reverse bg-nyanza rounded-lg drop-shadow-lg lg:flex-row">
                             <div className="p-5">
                                 <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">Education</h5>
                                 <p className="mb-3 font-normal text-gray-700 text-sm sm:text-base">
@@ -34,6 +34,17 @@ export default function Projects() {
                                 </p>
                             </div>
                             <img className="rounded-t-lg lg:w-3/5 lg:rounded-tl-none lg:rounded-br-lg" src="/1.jpg" alt="" />
+                        </div>
+
+                        <div className="flex flex-col bg-nyanza rounded-lg drop-shadow-lg lg:flex-row">
+                            <img className="rounded-t-lg lg:w-3/5 lg:rounded-tr-none lg:rounded-bl-lg" src="/carousel/2.jpg" alt="" />
+                            <div className="p-5">
+                                <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">Skills</h5>
+                                <p className="mb-3 font-normal text-gray-700 text-sm sm:text-base">
+                                We funded a variety of projects to help beneficiaries gain skills which will help them have a self sustainable career. 
+                                For example, training for domestic and HGV driving licenses or agricultural skills.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
